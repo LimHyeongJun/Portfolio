@@ -1,0 +1,155 @@
+/*전체 바탕화면 색깔 지정*/
+* {
+    background-color:rgb(214, 211, 211);
+}
+
+/*하이퍼링크 밑줄 제거*/
+a {
+    text-decoration:none;
+}
+
+a:hover {
+    color: red;
+    font-size:1.3em;
+    transition-duration: 1s;
+}
+
+
+/*헤더 색깔 및 글꼴 지정*/
+#header{ 
+    color:rgb(44, 136, 75);
+    font-family:"궁서체";
+    height:70px;
+    width:100%;
+    float:left;
+    font-size:1.2em;
+    text-align:center;
+}
+
+/*오디오 공간 스타일*/
+#audio {
+    text-align:center;
+}
+
+/*목록 전체 테이블 스타일*/
+.table_menu {
+    width:100%;
+    border:3px solid blueviolet;
+    margin-right:100px;
+    position:sticky;
+    top:0px;
+}
+
+/*목록 제목 스타일*/
+.table_tr_menu {
+    font-size:1.5em;
+    color:blueviolet;
+    border:5px;
+    font-family:"돋움체";
+}
+
+/*목록 내용 스타일*/
+.table_td_menu {
+    color:blueviolet;
+    border:2px;
+    font-family:"굴림체";
+}
+
+/*목록 말고 다른 표 속성*/
+.table {
+    width:100%;
+    border:1px solid gray;
+    margin-right:100px;
+}
+
+/*목록 제목 스타일*/
+.table_th {
+    font-size:1.5em;
+    color:black;
+    border:5px;
+    font-family:"돋움체";
+}
+
+/*목록 내용 스타일*/
+.table_td {
+    color:black;
+    border:1px;
+    font-family:"굴림체";
+}
+
+/*이미지 왼쪽 여백*/
+#imageleft {
+    float:left;
+    width:20%;
+    height:10px;
+}
+
+/*이미지 오른쪽 여백*/
+#aside {
+    float:right;
+    width:20%;
+    height:10px;
+}
+
+/*baseballrule.html에서 기본적인 룰 설명 배경*/
+#explanation_background {
+    text-align:center;
+    font-size:1.15em;
+    color:rgb(61, 60, 61);
+    background-image:linear-gradient(to right,rgb(118, 245, 79), yellow,rgb(118, 245, 79));
+    border:1px;
+    border-radius:30px;
+}
+
+/*baseballrule.html에서 사진 위쪽에 설명하는 부분*/
+#basic_rule_explanation_up {
+    float:left;
+    width:100%;
+    text-align:left;
+    font-size:1.1em;
+    color:rgb(53, 67, 255);
+}
+
+/*baseballrule.html에서 이미지*/
+#baseball_position {
+    float:left;
+    width:100%;
+    height:375px;
+    text-align:center;
+}
+
+/*baseballrule.html에서 사진 아래쪽에 설명하는 부분*/
+#basic_rule_explanation_down {
+    float:left;
+    width:100%;
+    font-size:1.05em;
+    color:rgb(6, 21, 243);
+}
+
+/*KBOleague.html에서 이미지*/
+#PostSeason {
+    float:left;
+    width:100%;
+    height:325px;
+    text-align:center;
+}
+
+/*KBOteam.html에서 구단명 및 구단 사진 스타일*/
+.KBOteam_td {
+    width:200px; 
+    text-align:center;
+    font-size:1.3em;
+}
+
+/*KBOteam.html에서 수평선 스타일*/
+hr {
+    border: 0px;
+    border-color: brown;
+    height: 3px;
+    background-color: brown;
+}
+
+/*목록 및 메인페이지 가는 하이퍼링크*/
+h4 {
+    text-align:center;
+}

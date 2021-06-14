@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Web_Page_Layout</title>
+    <!-- 본문에서는 다루지 않은 코드입니다. 부록 A에서 살펴보는 플러그인입니다. -->
+    <!-- 구 버전의 인터넷 익스플로러에서 HTML5 태그를 인식하게 합니다. -->
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 초기화 -->
+    <link href="http://fonts.googleapis.com/css?family=Henny+Penny" rel="stylesheet" type="text/css" />
+    <!-- 초기화 -->
+    <style>
+        * { margin: 0; padding: 0; }
+        body { font-family: 'Times New Roman', serif; }
+        li { list-style: none; }
+        a { text-decoration: none; }
+        img { border: 0; }
+    </style>
+    <!-- 헤더 -->
+    <style>
+        #main_header {
+            /* 중앙 정렬*/
+            width: 960px; margin: 0 auto;
+
+            /* 절대 좌표 */
+            height: 160px;
+            position: relative;
+        }
+        #main_header > #title {
+            position: absolute;
+            left: 20px; top: 30px;
+        }
+        #main_header > #main_gnb {
+            position: absolute;
+            right: 0; top: 0;
+        }
+        #main_header > #main_lnb {
+            position: absolute;
+            right: 0; bottom: 10px;
+        }
+    </style>
+    <!-- 타이틀 -->
+    <style>
+        #title {
+            font-family: 'Henny Penny', cursive; 
+        }
+    </style>
+    <!-- 메뉴(1) -->
+    <style>
+        #main_gnb > ul { overflow: hidden; }
+        #main_gnb > ul > li { float: left; }
+        #main_gnb > ul > li > a {
+            display: block;
+            padding: 2px 10px;
+            border: 1px solid black;
+            transition-property: background, color;
+        }
+        #main_gnb > ul > li > a:hover {
+            background: black;
+            color: white;
+            transition-duration: 2s;
+        }
+        #main_gnb > ul > li:first-child > a { border-radius: 10px 0 0 10px; }
+        #main_gnb > ul > li:last-child > a  { border-radius: 0 10px 10px 0; }
+        #main_gnb > ul > li:nth-child(2n) { background-color: orange;}
+    </style>
+    <!-- 메뉴(2) -->
+    <style>
+        #main_lnb > ul { overflow: hidden; }
+        #main_lnb > ul > li { float: left; }
+        #main_lnb > ul > li > a {
+            display: block;
+            padding: 10px 20px;
+            border: 1px solid black;
+            transition-property: background, color;
+        }
+        #main_lnb > ul > li > a:hover {
+            background: black;
+            color: white;
+            transition-duration: 2s;
+            transition-timing-function: linear;
+        }
+        #main_lnb > ul > li:first-child > a { border-radius: 10px 0 0 10px; }
+        #main_lnb > ul > li:last-child > a  { border-radius: 0 10px 10px 0; }
+        #main_lnb > ul > li:nth-child(2n) { background-color: yellow;}
+    </style>
+    <!-- 콘텐츠 -->
+    <style>
+        #content {
+            /* 중앙 정렬 */
+            width: 960px; margin: 0 auto;
+
+            /* 수평 레이아웃 구성 */
+            overflow: hidden;
+        }
+        #content > #main_section {
+            width: 750px;
+            float: left;
+        }
+        #content > #main_aside {
+            width: 200px;
+            float: right;
+        }
+    </style>
+    <!-- 본문 -->
+    <style>
+        #main_section > article.main_article {
+            margin-bottom: 10px;
+            padding: 20px;
+            border: 5px solid silver;
+            border-radius : 20px;
+            border-style: solid outset outset solid;
+        }
+    </style>
+    <!-- 사이드 -->
+    <style>
+        /* 첫 번째 탭 */
+        input:nth-of-type(1) { display: none; }
+        input:nth-of-type(1) ~ div:nth-of-type(1) { display: none; }
+        input:nth-of-type(1):checked ~ div:nth-of-type(1) { display: block; }
+
+        /* 두 번째 탭 */
+        input:nth-of-type(2) { display: none; }
+        input:nth-of-type(2) ~ div:nth-of-type(2) { display: none; }
+        input:nth-of-type(2):checked ~ div:nth-of-type(2) { display: block; }
+
+        /* 탭 모양 구성 */
+        section.buttons { overflow: hidden; }
+        section.buttons > label { 
+            /* 수평 정렬 */
+            display: block; float: left;
+
+            /* 크기 및 글자 위치 지정*/
+            width: 200px; height: 30px;
+            line-height: 30px;
+            text-align: center;
+
+            /* 테두리 지정 */
+            box-sizing: border-box;
+            border: 1px solid black;
+
+            /* 색상 지정*/
+            background: white;
+            color: black;
+        }
+        input:nth-of-type(1):checked ~ section.buttons >  label:nth-of-type(1) {
+            background: rgb(255, 0, 0);
+            color: white;
+        }
+        input:nth-of-type(2):checked ~ section.buttons >  label:nth-of-type(2) {
+            background: red;
+            color: white;
+        }
+    </style>
+    <!-- 목록 -->
+    <style>
+        .item {
+            overflow: hidden;
+            padding: 10px;
+            border: 1px solid black;
+            border-top: none;
+        }
+        .thumbnail {
+            float: left;
+        }
+        .description {
+            float: left;
+            margin-left: 10px;
+        }
+        .description > strong {
+            display: block;
+            width: 120px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+    </style>
+    <!-- 푸터 -->
+    <style>
+        #main_footer {
+            /* 중앙 정렬 */
+            width: 960px; margin: 0 auto;
+            margin-bottom: 10px;
+
+            /* 테두리 */
+            box-sizing: border-box;
+            padding: 10px;
+            border: 1px solid black;
+
+            /* 글자 정렬 */
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header id="main_header">
+        <div id="title">
+            <h1>네*버 스포츠</h1>
+            <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt야구&gt</h2>
+        </div>
+        <nav id="main_gnb">
+            <ul>
+                <li><a href="#">연예</a></li>
+                <li><a href="#">스포츠</a></li>
+                <li><a href="#">경제</a></li>
+                <li><a href="#">웹툰</a></li>
+                <li><a href="#">영화</a></li>
+            </ul>
+        </nav>
+        <nav id="main_lnb">
+            <ul>
+                <li><a href="#">야구</a></li>
+                <li><a href="#">해외야구</a></li>
+                <li><a href="#">축구</a></li>
+                <li><a href="#">해외축구</a></li>
+                <li><a href="#">E스포츠</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div id="content">
+        <section id="main_section">
+            <article class="main_article">
+                <h1>'양현종 첫 승' KIA, 삼성에 8-1 완승... 18일 만에 '위닝시리즈'</h1><br>
+                <p>KIA 타이거즈가 삼성 라이온즈를 제압하며 위닝시리즈를 완성했다. 전날 당했던 완패도 설욕. 선발 양현종(31)도 첫 승을 따냈다. 여러모로 기분 좋게 창원으로 이동할 수 있게 됐다.<br>이로써 KIA는 주중 3연전을 2승 1패, 위닝시리즈로 마쳤다. 지난 4월 12일부터 14일까지 인천에서 SK를 상대로 2승 1무로 우위에 선 이후 5시리즈 만에 처음이다. 날짜로는 18일 만이 된다. 삼성은 전날 승리의 기운을 이어가지 못했다.<br> KIA 선발 양현종은 6이닝 2피안타 1볼넷 5탈삼진 1실점의 호투를 펼치며 승리투수가 됐다. 시즌 7경기 만에 따낸 첫 승(5패)이다. 4월 11일(8이닝 3실점) 이후 21일 만에 만든 퀄리티스타트였다. 최근 페이스가 좋지 않았지만, 이날은 쾌투를 뽐냈다. 시원시원한 피칭. 타선도 화끈하게 양현종을 도왔다.<br> 양현종에 이어 전상현이 1이닝 1피안타 무실점을, 고영창이 1이닝 1피안타 무실점을 만들었고, 경찬이 등판해 1이닝 무실점으로 경기를 끝냈다. 깔끔한 이어던지기였다.</p>
+            </article>
+            <article class="main_article">
+                <h1>‘평균 155㎞ 찍었다’ 조상우 충격의 돌직구, 공포에 빠진 타자들</h1><br>
+                <p>방망이를 힘껏 돌려도 이미 공은 포수 미트에 빨려 들어간 뒤다. 그 과정이 반복되면 타자는 당혹스러움에 빠지고, 그 끝은 대개 머릿속의 공포로 끝나기 마련이다. 조상우(25·키움)가 서서히 그런 공포감을 키우고 있다.<br> 조상우는 올 시즌 최고 마무리를 향해 전진하고 있다. 시즌 14경기에서 15⅓이닝을 던지며 1승13세이브를 기록했다. 평균자책점은 아직 0이다. 피안타율은 1할8푼9리, 이닝당출루허용수(WHIP)는 0.85다. 승계주자 17명 중 홈을 밟은 주자는 단 2명에 불과했다. 이닝당 투구 수도 12.7개에 불과하다. 압도적인 구위로 상대를 찍어 누른다고 보면 틀림이 없다.<br>그런 조상우의 올 시즌 포심패스트볼 평균구속은 무려 152.8㎞에 이른다. 2일 인천 SK전에서는 올 시즌 최고치를 찍었다. 충분한 휴식을 취하고 다시 마운드에 오른 조상우는 이날 최고 157㎞의 강력한 패스트볼을 던지는 등 평균 155㎞를 기록했다. 미국식으로 따지면 평균 96.3마일이었다. 마지막 타자 로맥은 157㎞의 강속구에 헛스윙한 뒤 믿기 어렵다는 표정으로 포수를 쳐다볼 뿐이었다.<br>올해 조상우의 탈삼진 비율은 33.9%로 개인 경력에서 최고치다. 반대로 볼넷 비율은 5.4%로 경력 최저다. 전체의 33.6%가 헛스윙이고, 스트라이크 비율이 73.3%에 이른다. 예전의 약점을 상당 부분 지운 채 순항하고 있는 것이다. 메이저리그 구단들이 군 문제가 남아있는 조상우에 관심을 보이기 시작한 것도 이유가 있다는 분석이다. 조상우의 이런 압도적인 구위가 언제까지 이어질지 관심이다.</p>
+            </article>
+            <article class="main_article">
+                <h1>5강 벌써 고착화? 야구계 "너무 빠른데"... '재미·흥행' 걱정</h1><br>
+                <p>'승률 6할'이 넘는 팀이 무려 4팀. 반면 '승률 4할'에도 못 미치는 팀 역시 4팀에 달한다. 시즌 초반부터 KBO 리그 판세가 양극화하는 가운데, 일각에서는 KBO 리그의 재미와 리그를 향한 관심도가 떨어질 것을 우려하고 있다.<br>물론 아직 시즌 초반이다. 144경기 중 두산이 10개 구단 중 가장 많은 34경기를 소화했다. 반면 한화는 31경기밖에 치르지 않았다. 비율로 따지면 전체 시즌 일정의 23%를 소화했을 뿐이다.<br>그럼에도 불구하고 시즌 초반부터 대략 순위가 정해지고 있다. 모두 30경기 이상 소화한 가운데, 각 팀들은 서서히 전력의 민낯을 드러내고 있다. 시즌 전 '3강'으로 꼽힌 SK와 두산 그리고 키움은 여전히 순항하는 중이다. SK는 공동 1위, 두산은 3위, 키움은 5위에 각각 자리하고 있다.<br>5강권을 이루는 팀들이 올해처럼 일찍 정해진다면 시즌 막판에 '6위~10위 팀들 간 경기' 혹은 맥 빠지는 '상위권 팀 vs 하위권 팀' 간 경기가 나올 수 있다. 한 야구인은 "당분간 이런 5강 체제가 흔들리지 않고 계속 이어질 것 같다. 올해는 과거보다 더욱 빨리 팀들이 윤곽을 드러내고 있는 것 같다. 만약 순위가 그렇게 된다면 KBO 리그에 대한 관심도가 떨어질 수밖에 없을 것"이라며 걱정했다.</p>
+            </article>
+        </section>
+        <aside id="main_aside">
+            <input id="first" type="radio" name="tab" checked="checked" />
+            <input id="second" type="radio" name="tab" />
+            <section class="buttons">
+                <label for="first">1~5위</label>
+                <label for="second">6~10위</label>
+            </section>
+            <div class="tab_item">
+                <ul>
+                    <li class="item"><a href="#">
+                        <div class="thumbnail">
+                            <img src="http://placehold.it/45x45" />
+                        </div>
+                        <div class="description">
+                            <strong>1. SK 와이번스</strong><p>게임차 : 0</p>
+                        </div>
+                    </a></li>
+                    <li class="item"><a href="#">
+                        <div class="thumbnail">
+                            <img src="http://placehold.it/45x45" />
+                        </div>
+                        <div class="description">
+                            <strong>1. LG 트윈스</strong><p>게임차 : 0</p>
+                        </div>
+                    </a></li>
+                    <li class="item"><a href="#">
+                        <div class="thumbnail">
+                            <img src="http://placehold.it/45x45" />
+                        </div>
+                        <div class="description">
+                            <strong>3. 두산 베이스</strong><p>게임차 : 0</p>
+                        </div>
+                    </a></li>
+                    <li class="item"><a href="#">
+                        <div class="thumbnail">
+                            <img src="http://placehold.it/45x45" />
+                        </div>
+                        <div class="description">
+                            <strong>4. NC 다이노스</strong><p>게임차 : 1</p>
+                        </div>
+                    </a></li>
+                    <li class="item"><a href="#">
+                        <div class="thumbnail">
+                            <img src="http://placehold.it/45x45" />
+                        </div>
+                        <div class="description">
+                            <strong>5. 키움 히어로즈</strong><p>게임차 : 2</p>
+                        </div>
+                    </a></li>
+                </ul>
+            </div>
+            <div class="tab_item">
+                <ul>
+                    <li class="item"><a href="#">
+                        <div class="thumbnail">
+                            <img src="http://placehold.it/45x45" />
+                        </div>
+                        <div class="description">
+                            <strong>6. 한화 이글스</strong><p>게임차 : 6.5</p>
+                        </div>
+                    </a></li>
+                    <li class="item"><a href="#">
+                        <div class="thumbnail">
+                            <img src="http://placehold.it/45x45" />
+                        </div>
+                        <div class="description">
+                            <strong>7. 롯데 자이언츠</strong><p>게임차 : 9</p>
+                        </div>
+                    </a></li>
+                    <li class="item"><a href="#">
+                        <div class="thumbnail">
+                            <img src="http://placehold.it/45x45" />
+                        </div>
+                        <div class="description">
+                            <strong>8. 기아 타이거즈</strong><p>게임차 : 9.5</p>
+                        </div>
+                    </a></li>
+                    <li class="item"><a href="#">
+                        <div class="thumbnail">
+                            <img src="http://placehold.it/45x45" />
+                        </div>
+                        <div class="description">
+                            <strong>9. 삼성 라이온즈</strong><p>게임차 : 10</p>
+                        </div>
+                    </a></li>
+                    <li class="item"><a href="#">
+                        <div class="thumbnail">
+                            <img src="http://placehold.it/45x45" />
+                        </div>
+                        <div class="description">
+                            <strong>10. KT 위즈</strong><p>게임차 : 12</p>
+                        </div>
+                    </a></li>
+                </ul>
+            </div>
+        </aside>
+    </div>
+    <footer id="main_footer">
+        <h3>HTML5 + CSS3 Basic 으로 꾸며본 페이지</h3>
+        <address>웹페이지 레이아웃</address>
+    </footer>
+</body>
+</html>
