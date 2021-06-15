@@ -1,0 +1,36 @@
+C:\Users\pc\source\repos\MidTermHW\지뢰찾기\bin\Release\지뢰찾기.exe.config
+C:\Users\pc\source\repos\MidTermHW\지뢰찾기\bin\Release\지뢰찾기.exe
+C:\Users\pc\source\repos\MidTermHW\지뢰찾기\bin\Release\지뢰찾기.pdb
+C:\Users\pc\source\repos\MidTermHW\지뢰찾기\obj\Release\지뢰찾기.Difficulty.resources
+C:\Users\pc\source\repos\MidTermHW\지뢰찾기\obj\Release\지뢰찾기.PlayBoard.resources
+C:\Users\pc\source\repos\MidTermHW\지뢰찾기\obj\Release\지뢰찾기.ReplayForm.resources
+C:\Users\pc\source\repos\MidTermHW\지뢰찾기\obj\Release\지뢰찾기.Properties.Resources.resources
+C:\Users\pc\source\repos\MidTermHW\지뢰찾기\obj\Release\지뢰찾기.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\MidTermHW\지뢰찾기\obj\Release\지뢰찾기.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\MidTermHW\지뢰찾기\obj\Release\지뢰찾기.exe
+C:\Users\pc\source\repos\MidTermHW\지뢰찾기\obj\Release\지뢰찾기.pdb
+C:\Users\pc\source\repos\MidTermHW\지뢰찾기\obj\Release\지뢰찾기.csprojAssemblyReference.cache
+D:\3학년 1학기\응용소프트웨어실습\과제\중간고사 대체 과제\지뢰찾기\bin\Release\지뢰찾기.exe.config
+D:\3학년 1학기\응용소프트웨어실습\과제\중간고사 대체 과제\지뢰찾기\bin\Release\지뢰찾기.exe
+D:\3학년 1학기\응용소프트웨어실습\과제\중간고사 대체 과제\지뢰찾기\bin\Release\지뢰찾기.pdb
+D:\3학년 1학기\응용소프트웨어실습\과제\중간고사 대체 과제\지뢰찾기\obj\Release\지뢰찾기.csprojAssemblyReference.cache
+D:\3학년 1학기\응용소프트웨어실습\과제\중간고사 대체 과제\지뢰찾기\obj\Release\지뢰찾기.Difficulty.resources
+D:\3학년 1학기\응용소프트웨어실습\과제\중간고사 대체 과제\지뢰찾기\obj\Release\지뢰찾기.PlayBoard.resources
+D:\3학년 1학기\응용소프트웨어실습\과제\중간고사 대체 과제\지뢰찾기\obj\Release\지뢰찾기.ReplayForm.resources
+D:\3학년 1학기\응용소프트웨어실습\과제\중간고사 대체 과제\지뢰찾기\obj\Release\지뢰찾기.Properties.Resources.resources
+D:\3학년 1학기\응용소프트웨어실습\과제\중간고사 대체 과제\지뢰찾기\obj\Release\지뢰찾기.csproj.GenerateResource.cache
+D:\3학년 1학기\응용소프트웨어실습\과제\중간고사 대체 과제\지뢰찾기\obj\Release\지뢰찾기.csproj.CoreCompileInputs.cache
+D:\3학년 1학기\응용소프트웨어실습\과제\중간고사 대체 과제\지뢰찾기\obj\Release\지뢰찾기.exe
+D:\3학년 1학기\응용소프트웨어실습\과제\중간고사 대체 과제\지뢰찾기\obj\Release\지뢰찾기.pdb
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\MidTerm_Homework\지뢰찾기\bin\Release\지뢰찾기.exe.config
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\MidTerm_Homework\지뢰찾기\bin\Release\지뢰찾기.exe
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\MidTerm_Homework\지뢰찾기\bin\Release\지뢰찾기.pdb
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\MidTerm_Homework\지뢰찾기\obj\Release\지뢰찾기.csprojAssemblyReference.cache
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\MidTerm_Homework\지뢰찾기\obj\Release\지뢰찾기.Difficulty.resources
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\MidTerm_Homework\지뢰찾기\obj\Release\지뢰찾기.PlayBoard.resources
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\MidTerm_Homework\지뢰찾기\obj\Release\지뢰찾기.ReplayForm.resources
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\MidTerm_Homework\지뢰찾기\obj\Release\지뢰찾기.Properties.Resources.resources
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\MidTerm_Homework\지뢰찾기\obj\Release\지뢰찾기.csproj.GenerateResource.cache
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\MidTerm_Homework\지뢰찾기\obj\Release\지뢰찾기.csproj.CoreCompileInputs.cache
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\MidTerm_Homework\지뢰찾기\obj\Release\지뢰찾기.exe
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\MidTerm_Homework\지뢰찾기\obj\Release\지뢰찾기.pdb

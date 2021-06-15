@@ -1,0 +1,20 @@
+C:\Users\pc\source\repos\응용소프트웨어실습_과제2\Server\bin\Release\Server.exe.config
+C:\Users\pc\source\repos\응용소프트웨어실습_과제2\Server\bin\Release\Server.exe
+C:\Users\pc\source\repos\응용소프트웨어실습_과제2\Server\bin\Release\Server.pdb
+C:\Users\pc\source\repos\응용소프트웨어실습_과제2\Server\obj\Release\Server.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\응용소프트웨어실습_과제2\Server\obj\Release\Server.ServerForm.resources
+C:\Users\pc\source\repos\응용소프트웨어실습_과제2\Server\obj\Release\Server.Properties.Resources.resources
+C:\Users\pc\source\repos\응용소프트웨어실습_과제2\Server\obj\Release\Server.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\응용소프트웨어실습_과제2\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\응용소프트웨어실습_과제2\Server\obj\Release\Server.exe
+C:\Users\pc\source\repos\응용소프트웨어실습_과제2\Server\obj\Release\Server.pdb
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 2\응용소프트웨어실습_과제2\Server\bin\Release\Server.exe.config
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 2\응용소프트웨어실습_과제2\Server\bin\Release\Server.exe
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 2\응용소프트웨어실습_과제2\Server\bin\Release\Server.pdb
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 2\응용소프트웨어실습_과제2\Server\obj\Release\Server.csprojAssemblyReference.cache
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 2\응용소프트웨어실습_과제2\Server\obj\Release\Server.ServerForm.resources
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 2\응용소프트웨어실습_과제2\Server\obj\Release\Server.Properties.Resources.resources
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 2\응용소프트웨어실습_과제2\Server\obj\Release\Server.csproj.GenerateResource.cache
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 2\응용소프트웨어실습_과제2\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 2\응용소프트웨어실습_과제2\Server\obj\Release\Server.exe
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 2\응용소프트웨어실습_과제2\Server\obj\Release\Server.pdb

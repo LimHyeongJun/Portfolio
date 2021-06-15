@@ -1,0 +1,21 @@
+C:\Users\pc\source\repos\HW1\HW1\bin\Debug\HW1.exe.config
+C:\Users\pc\source\repos\HW1\HW1\bin\Debug\HW1.exe
+C:\Users\pc\source\repos\HW1\HW1\bin\Debug\HW1.pdb
+C:\Users\pc\source\repos\HW1\HW1\obj\Debug\HW1.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\HW1\HW1\obj\Debug\HW1.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\HW1\HW1\obj\Debug\HW1.exe
+C:\Users\pc\source\repos\HW1\HW1\obj\Debug\HW1.pdb
+C:\Users\pc\Desktop\응용소프트웨어실습\과제\과제 1\HW1\HW1\bin\Debug\HW1.exe.config
+C:\Users\pc\Desktop\응용소프트웨어실습\과제\과제 1\HW1\HW1\bin\Debug\HW1.exe
+C:\Users\pc\Desktop\응용소프트웨어실습\과제\과제 1\HW1\HW1\bin\Debug\HW1.pdb
+C:\Users\pc\Desktop\응용소프트웨어실습\과제\과제 1\HW1\HW1\obj\Debug\HW1.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\응용소프트웨어실습\과제\과제 1\HW1\HW1\obj\Debug\HW1.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\응용소프트웨어실습\과제\과제 1\HW1\HW1\obj\Debug\HW1.exe
+C:\Users\pc\Desktop\응용소프트웨어실습\과제\과제 1\HW1\HW1\obj\Debug\HW1.pdb
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\1st_Homework\HW1\bin\Debug\HW1.exe.config
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\1st_Homework\HW1\bin\Debug\HW1.exe
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\1st_Homework\HW1\bin\Debug\HW1.pdb
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\1st_Homework\HW1\obj\Debug\HW1.csprojAssemblyReference.cache
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\1st_Homework\HW1\obj\Debug\HW1.csproj.CoreCompileInputs.cache
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\1st_Homework\HW1\obj\Debug\HW1.exe
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\1st_Homework\HW1\obj\Debug\HW1.pdb

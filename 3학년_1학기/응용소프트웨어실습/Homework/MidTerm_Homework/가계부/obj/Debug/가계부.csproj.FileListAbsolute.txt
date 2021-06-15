@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\MidTermHW\가계부\bin\Debug\가계부.exe.config
+C:\Users\pc\source\repos\MidTermHW\가계부\bin\Debug\가계부.exe
+C:\Users\pc\source\repos\MidTermHW\가계부\bin\Debug\가계부.pdb
+C:\Users\pc\source\repos\MidTermHW\가계부\obj\Debug\가계부.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\MidTermHW\가계부\obj\Debug\가계부.Properties.Resources.resources
+C:\Users\pc\source\repos\MidTermHW\가계부\obj\Debug\가계부.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\MidTermHW\가계부\obj\Debug\가계부.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\MidTermHW\가계부\obj\Debug\가계부.exe
+C:\Users\pc\source\repos\MidTermHW\가계부\obj\Debug\가계부.pdb
+C:\Users\pc\source\repos\MidTermHW\가계부\obj\Debug\가계부.Form1.resources

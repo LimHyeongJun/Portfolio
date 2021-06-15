@@ -1,0 +1,14 @@
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 1\HW1\HW1\bin\Release\HW1.exe.config
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 1\HW1\HW1\bin\Release\HW1.exe
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 1\HW1\HW1\bin\Release\HW1.pdb
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 1\HW1\HW1\obj\Release\HW1.csprojAssemblyReference.cache
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 1\HW1\HW1\obj\Release\HW1.csproj.CoreCompileInputs.cache
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 1\HW1\HW1\obj\Release\HW1.exe
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 1\HW1\HW1\obj\Release\HW1.pdb
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\1st_Homework\HW1\HW1\bin\Release\HW1.exe.config
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\1st_Homework\HW1\HW1\bin\Release\HW1.exe
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\1st_Homework\HW1\HW1\bin\Release\HW1.pdb
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\1st_Homework\HW1\HW1\obj\Release\HW1.csprojAssemblyReference.cache
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\1st_Homework\HW1\HW1\obj\Release\HW1.csproj.CoreCompileInputs.cache
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\1st_Homework\HW1\HW1\obj\Release\HW1.exe
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\1st_Homework\HW1\HW1\obj\Release\HW1.pdb

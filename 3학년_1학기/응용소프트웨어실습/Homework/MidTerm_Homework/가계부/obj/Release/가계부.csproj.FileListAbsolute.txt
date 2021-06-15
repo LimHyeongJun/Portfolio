@@ -1,0 +1,20 @@
+D:\3학년 1학기\응용소프트웨어실습\과제\중간고사 대체 과제\가계부\bin\Release\가계부.exe.config
+D:\3학년 1학기\응용소프트웨어실습\과제\중간고사 대체 과제\가계부\bin\Release\가계부.exe
+D:\3학년 1학기\응용소프트웨어실습\과제\중간고사 대체 과제\가계부\bin\Release\가계부.pdb
+D:\3학년 1학기\응용소프트웨어실습\과제\중간고사 대체 과제\가계부\obj\Release\가계부.csprojAssemblyReference.cache
+D:\3학년 1학기\응용소프트웨어실습\과제\중간고사 대체 과제\가계부\obj\Release\가계부.Form1.resources
+D:\3학년 1학기\응용소프트웨어실습\과제\중간고사 대체 과제\가계부\obj\Release\가계부.Properties.Resources.resources
+D:\3학년 1학기\응용소프트웨어실습\과제\중간고사 대체 과제\가계부\obj\Release\가계부.csproj.GenerateResource.cache
+D:\3학년 1학기\응용소프트웨어실습\과제\중간고사 대체 과제\가계부\obj\Release\가계부.csproj.CoreCompileInputs.cache
+D:\3학년 1학기\응용소프트웨어실습\과제\중간고사 대체 과제\가계부\obj\Release\가계부.exe
+D:\3학년 1학기\응용소프트웨어실습\과제\중간고사 대체 과제\가계부\obj\Release\가계부.pdb
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\MidTerm_Homework\가계부\bin\Release\가계부.exe.config
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\MidTerm_Homework\가계부\bin\Release\가계부.exe
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\MidTerm_Homework\가계부\bin\Release\가계부.pdb
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\MidTerm_Homework\가계부\obj\Release\가계부.csprojAssemblyReference.cache
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\MidTerm_Homework\가계부\obj\Release\가계부.Form1.resources
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\MidTerm_Homework\가계부\obj\Release\가계부.Properties.Resources.resources
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\MidTerm_Homework\가계부\obj\Release\가계부.csproj.GenerateResource.cache
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\MidTerm_Homework\가계부\obj\Release\가계부.csproj.CoreCompileInputs.cache
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\MidTerm_Homework\가계부\obj\Release\가계부.exe
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\MidTerm_Homework\가계부\obj\Release\가계부.pdb

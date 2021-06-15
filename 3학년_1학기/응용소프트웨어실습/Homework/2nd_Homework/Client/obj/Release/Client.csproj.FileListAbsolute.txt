@@ -1,0 +1,20 @@
+C:\Users\pc\source\repos\응용소프트웨어실습_과제2\Client\bin\Release\Client.exe.config
+C:\Users\pc\source\repos\응용소프트웨어실습_과제2\Client\bin\Release\Client.exe
+C:\Users\pc\source\repos\응용소프트웨어실습_과제2\Client\bin\Release\Client.pdb
+C:\Users\pc\source\repos\응용소프트웨어실습_과제2\Client\obj\Release\Client.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\응용소프트웨어실습_과제2\Client\obj\Release\Client.ClientForm.resources
+C:\Users\pc\source\repos\응용소프트웨어실습_과제2\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\pc\source\repos\응용소프트웨어실습_과제2\Client\obj\Release\Client.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\응용소프트웨어실습_과제2\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\응용소프트웨어실습_과제2\Client\obj\Release\Client.exe
+C:\Users\pc\source\repos\응용소프트웨어실습_과제2\Client\obj\Release\Client.pdb
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 2\응용소프트웨어실습_과제2\Client\bin\Release\Client.exe.config
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 2\응용소프트웨어실습_과제2\Client\bin\Release\Client.exe
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 2\응용소프트웨어실습_과제2\Client\bin\Release\Client.pdb
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 2\응용소프트웨어실습_과제2\Client\obj\Release\Client.csprojAssemblyReference.cache
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 2\응용소프트웨어실습_과제2\Client\obj\Release\Client.ClientForm.resources
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 2\응용소프트웨어실습_과제2\Client\obj\Release\Client.Properties.Resources.resources
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 2\응용소프트웨어실습_과제2\Client\obj\Release\Client.csproj.GenerateResource.cache
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 2\응용소프트웨어실습_과제2\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 2\응용소프트웨어실습_과제2\Client\obj\Release\Client.exe
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 2\응용소프트웨어실습_과제2\Client\obj\Release\Client.pdb

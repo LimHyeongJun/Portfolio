@@ -1,0 +1,55 @@
+C:\Users\pc\source\repos\응소실_HW3\Server\bin\Release\Server.exe.config
+C:\Users\pc\source\repos\응소실_HW3\Server\bin\Release\Server.exe
+C:\Users\pc\source\repos\응소실_HW3\Server\bin\Release\Server.pdb
+C:\Users\pc\source\repos\응소실_HW3\Server\obj\Release\Server.Form1.resources
+C:\Users\pc\source\repos\응소실_HW3\Server\obj\Release\Server.Form2.resources
+C:\Users\pc\source\repos\응소실_HW3\Server\obj\Release\Server.Properties.Resources.resources
+C:\Users\pc\source\repos\응소실_HW3\Server\obj\Release\Server.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\응소실_HW3\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\응소실_HW3\Server\obj\Release\Server.exe
+C:\Users\pc\source\repos\응소실_HW3\Server\obj\Release\Server.pdb
+C:\Users\pc\source\repos\응소실_HW3\Server\obj\Release\Server.csprojAssemblyReference.cache
+D:\중요 코드들(프젝 or 과제)\응소실_HW3\Server\bin\Release\Server.exe.config
+D:\중요 코드들(프젝 or 과제)\응소실_HW3\Server\bin\Release\Server.exe
+D:\중요 코드들(프젝 or 과제)\응소실_HW3\Server\bin\Release\Server.pdb
+D:\중요 코드들(프젝 or 과제)\응소실_HW3\Server\obj\Release\Server.csprojAssemblyReference.cache
+D:\중요 코드들(프젝 or 과제)\응소실_HW3\Server\obj\Release\Server.Form1.resources
+D:\중요 코드들(프젝 or 과제)\응소실_HW3\Server\obj\Release\Server.Form2.resources
+D:\중요 코드들(프젝 or 과제)\응소실_HW3\Server\obj\Release\Server.Properties.Resources.resources
+D:\중요 코드들(프젝 or 과제)\응소실_HW3\Server\obj\Release\Server.csproj.GenerateResource.cache
+D:\중요 코드들(프젝 or 과제)\응소실_HW3\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+D:\중요 코드들(프젝 or 과제)\응소실_HW3\Server\obj\Release\Server.exe
+D:\중요 코드들(프젝 or 과제)\응소실_HW3\Server\obj\Release\Server.pdb
+C:\Users\pc\Desktop\응소실_과제3\[HW3]2016726082_임형준\Server\bin\Release\Server.exe.config
+C:\Users\pc\Desktop\응소실_과제3\[HW3]2016726082_임형준\Server\bin\Release\Server.exe
+C:\Users\pc\Desktop\응소실_과제3\[HW3]2016726082_임형준\Server\bin\Release\Server.pdb
+C:\Users\pc\Desktop\응소실_과제3\[HW3]2016726082_임형준\Server\obj\Release\Server.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\응소실_과제3\[HW3]2016726082_임형준\Server\obj\Release\Server.Form1.resources
+C:\Users\pc\Desktop\응소실_과제3\[HW3]2016726082_임형준\Server\obj\Release\Server.Form2.resources
+C:\Users\pc\Desktop\응소실_과제3\[HW3]2016726082_임형준\Server\obj\Release\Server.Properties.Resources.resources
+C:\Users\pc\Desktop\응소실_과제3\[HW3]2016726082_임형준\Server\obj\Release\Server.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\응소실_과제3\[HW3]2016726082_임형준\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\응소실_과제3\[HW3]2016726082_임형준\Server\obj\Release\Server.exe
+C:\Users\pc\Desktop\응소실_과제3\[HW3]2016726082_임형준\Server\obj\Release\Server.pdb
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 3\응소실_과제3(완성)\[HW3]2016726082_임형준\Server\bin\Release\Server.exe.config
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 3\응소실_과제3(완성)\[HW3]2016726082_임형준\Server\bin\Release\Server.exe
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 3\응소실_과제3(완성)\[HW3]2016726082_임형준\Server\bin\Release\Server.pdb
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 3\응소실_과제3(완성)\[HW3]2016726082_임형준\Server\obj\Release\Server.csprojAssemblyReference.cache
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 3\응소실_과제3(완성)\[HW3]2016726082_임형준\Server\obj\Release\Server.Form1.resources
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 3\응소실_과제3(완성)\[HW3]2016726082_임형준\Server\obj\Release\Server.Form2.resources
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 3\응소실_과제3(완성)\[HW3]2016726082_임형준\Server\obj\Release\Server.Properties.Resources.resources
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 3\응소실_과제3(완성)\[HW3]2016726082_임형준\Server\obj\Release\Server.csproj.GenerateResource.cache
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 3\응소실_과제3(완성)\[HW3]2016726082_임형준\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 3\응소실_과제3(완성)\[HW3]2016726082_임형준\Server\obj\Release\Server.exe
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 3\응소실_과제3(완성)\[HW3]2016726082_임형준\Server\obj\Release\Server.pdb
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\3rd_Homework\응소실_과제3(완성)\[HW3]2016726082_임형준\Server\bin\Release\Server.exe.config
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\3rd_Homework\응소실_과제3(완성)\[HW3]2016726082_임형준\Server\bin\Release\Server.exe
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\3rd_Homework\응소실_과제3(완성)\[HW3]2016726082_임형준\Server\bin\Release\Server.pdb
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\3rd_Homework\응소실_과제3(완성)\[HW3]2016726082_임형준\Server\obj\Release\Server.csprojAssemblyReference.cache
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\3rd_Homework\응소실_과제3(완성)\[HW3]2016726082_임형준\Server\obj\Release\Server.Form1.resources
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\3rd_Homework\응소실_과제3(완성)\[HW3]2016726082_임형준\Server\obj\Release\Server.Form2.resources
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\3rd_Homework\응소실_과제3(완성)\[HW3]2016726082_임형준\Server\obj\Release\Server.Properties.Resources.resources
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\3rd_Homework\응소실_과제3(완성)\[HW3]2016726082_임형준\Server\obj\Release\Server.csproj.GenerateResource.cache
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\3rd_Homework\응소실_과제3(완성)\[HW3]2016726082_임형준\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\3rd_Homework\응소실_과제3(완성)\[HW3]2016726082_임형준\Server\obj\Release\Server.exe
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\3rd_Homework\응소실_과제3(완성)\[HW3]2016726082_임형준\Server\obj\Release\Server.pdb

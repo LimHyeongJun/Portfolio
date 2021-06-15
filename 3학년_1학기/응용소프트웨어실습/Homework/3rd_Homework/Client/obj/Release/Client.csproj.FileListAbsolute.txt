@@ -1,0 +1,55 @@
+C:\Users\pc\source\repos\응소실_HW3\Client\bin\Release\Client.exe.config
+C:\Users\pc\source\repos\응소실_HW3\Client\bin\Release\Client.exe
+C:\Users\pc\source\repos\응소실_HW3\Client\bin\Release\Client.pdb
+C:\Users\pc\source\repos\응소실_HW3\Client\obj\Release\Client.Form1.resources
+C:\Users\pc\source\repos\응소실_HW3\Client\obj\Release\Client.Form2.resources
+C:\Users\pc\source\repos\응소실_HW3\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\pc\source\repos\응소실_HW3\Client\obj\Release\Client.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\응소실_HW3\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\응소실_HW3\Client\obj\Release\Client.exe
+C:\Users\pc\source\repos\응소실_HW3\Client\obj\Release\Client.pdb
+C:\Users\pc\source\repos\응소실_HW3\Client\obj\Release\Client.csprojAssemblyReference.cache
+D:\중요 코드들(프젝 or 과제)\응소실_HW3\Client\bin\Release\Client.exe.config
+D:\중요 코드들(프젝 or 과제)\응소실_HW3\Client\bin\Release\Client.exe
+D:\중요 코드들(프젝 or 과제)\응소실_HW3\Client\bin\Release\Client.pdb
+D:\중요 코드들(프젝 or 과제)\응소실_HW3\Client\obj\Release\Client.csprojAssemblyReference.cache
+D:\중요 코드들(프젝 or 과제)\응소실_HW3\Client\obj\Release\Client.Form1.resources
+D:\중요 코드들(프젝 or 과제)\응소실_HW3\Client\obj\Release\Client.Form2.resources
+D:\중요 코드들(프젝 or 과제)\응소실_HW3\Client\obj\Release\Client.Properties.Resources.resources
+D:\중요 코드들(프젝 or 과제)\응소실_HW3\Client\obj\Release\Client.csproj.GenerateResource.cache
+D:\중요 코드들(프젝 or 과제)\응소실_HW3\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+D:\중요 코드들(프젝 or 과제)\응소실_HW3\Client\obj\Release\Client.exe
+D:\중요 코드들(프젝 or 과제)\응소실_HW3\Client\obj\Release\Client.pdb
+C:\Users\pc\Desktop\응소실_과제3\[HW3]2016726082_임형준\Client\bin\Release\Client.exe.config
+C:\Users\pc\Desktop\응소실_과제3\[HW3]2016726082_임형준\Client\bin\Release\Client.exe
+C:\Users\pc\Desktop\응소실_과제3\[HW3]2016726082_임형준\Client\bin\Release\Client.pdb
+C:\Users\pc\Desktop\응소실_과제3\[HW3]2016726082_임형준\Client\obj\Release\Client.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\응소실_과제3\[HW3]2016726082_임형준\Client\obj\Release\Client.Form1.resources
+C:\Users\pc\Desktop\응소실_과제3\[HW3]2016726082_임형준\Client\obj\Release\Client.Form2.resources
+C:\Users\pc\Desktop\응소실_과제3\[HW3]2016726082_임형준\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\pc\Desktop\응소실_과제3\[HW3]2016726082_임형준\Client\obj\Release\Client.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\응소실_과제3\[HW3]2016726082_임형준\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\응소실_과제3\[HW3]2016726082_임형준\Client\obj\Release\Client.exe
+C:\Users\pc\Desktop\응소실_과제3\[HW3]2016726082_임형준\Client\obj\Release\Client.pdb
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 3\응소실_과제3(완성)\[HW3]2016726082_임형준\Client\bin\Release\Client.exe.config
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 3\응소실_과제3(완성)\[HW3]2016726082_임형준\Client\bin\Release\Client.exe
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 3\응소실_과제3(완성)\[HW3]2016726082_임형준\Client\bin\Release\Client.pdb
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 3\응소실_과제3(완성)\[HW3]2016726082_임형준\Client\obj\Release\Client.csprojAssemblyReference.cache
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 3\응소실_과제3(완성)\[HW3]2016726082_임형준\Client\obj\Release\Client.Form1.resources
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 3\응소실_과제3(완성)\[HW3]2016726082_임형준\Client\obj\Release\Client.Form2.resources
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 3\응소실_과제3(완성)\[HW3]2016726082_임형준\Client\obj\Release\Client.Properties.Resources.resources
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 3\응소실_과제3(완성)\[HW3]2016726082_임형준\Client\obj\Release\Client.csproj.GenerateResource.cache
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 3\응소실_과제3(완성)\[HW3]2016726082_임형준\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 3\응소실_과제3(완성)\[HW3]2016726082_임형준\Client\obj\Release\Client.exe
+D:\3학년 1학기\응용소프트웨어실습\과제\과제 3\응소실_과제3(완성)\[HW3]2016726082_임형준\Client\obj\Release\Client.pdb
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\3rd_Homework\응소실_과제3(완성)\[HW3]2016726082_임형준\Client\bin\Release\Client.exe.config
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\3rd_Homework\응소실_과제3(완성)\[HW3]2016726082_임형준\Client\bin\Release\Client.exe
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\3rd_Homework\응소실_과제3(완성)\[HW3]2016726082_임형준\Client\bin\Release\Client.pdb
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\3rd_Homework\응소실_과제3(완성)\[HW3]2016726082_임형준\Client\obj\Release\Client.csprojAssemblyReference.cache
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\3rd_Homework\응소실_과제3(완성)\[HW3]2016726082_임형준\Client\obj\Release\Client.Form1.resources
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\3rd_Homework\응소실_과제3(완성)\[HW3]2016726082_임형준\Client\obj\Release\Client.Form2.resources
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\3rd_Homework\응소실_과제3(완성)\[HW3]2016726082_임형준\Client\obj\Release\Client.Properties.Resources.resources
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\3rd_Homework\응소실_과제3(완성)\[HW3]2016726082_임형준\Client\obj\Release\Client.csproj.GenerateResource.cache
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\3rd_Homework\응소실_과제3(완성)\[HW3]2016726082_임형준\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\3rd_Homework\응소실_과제3(완성)\[HW3]2016726082_임형준\Client\obj\Release\Client.exe
+D:\포트폴리오\3학년_1학기\응용소프트웨어실습\Homework\3rd_Homework\응소실_과제3(완성)\[HW3]2016726082_임형준\Client\obj\Release\Client.pdb

@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\FinalExamHW\RogueLikeGame\bin\Release\RogueLikeGame.exe.config
+C:\Users\pc\source\repos\FinalExamHW\RogueLikeGame\bin\Release\RogueLikeGame.exe
+C:\Users\pc\source\repos\FinalExamHW\RogueLikeGame\bin\Release\RogueLikeGame.pdb
+C:\Users\pc\source\repos\FinalExamHW\RogueLikeGame\obj\Release\RogueLikeGame.Form1.resources
+C:\Users\pc\source\repos\FinalExamHW\RogueLikeGame\obj\Release\RogueLikeGame.Properties.Resources.resources
+C:\Users\pc\source\repos\FinalExamHW\RogueLikeGame\obj\Release\RogueLikeGame.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\FinalExamHW\RogueLikeGame\obj\Release\RogueLikeGame.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\FinalExamHW\RogueLikeGame\obj\Release\RogueLikeGame.exe
+C:\Users\pc\source\repos\FinalExamHW\RogueLikeGame\obj\Release\RogueLikeGame.pdb
+C:\Users\pc\source\repos\FinalExamHW\RogueLikeGame\obj\Release\RogueLikeGame.Form2.resources
+C:\Users\pc\source\repos\FinalExamHW\RogueLikeGame\obj\Release\RogueLikeGame.csprojAssemblyReference.cache
