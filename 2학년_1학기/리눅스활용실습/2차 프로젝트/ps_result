@@ -1,4 +1,0 @@
-     UID     PID    PPID  TTY        STIME COMMAND
-      pc    2403    2021 pty0     17:08:45 /usr/bin/ps
-      pc    2020       1 ?        17:08:30 /usr/bin/mintty
-      pc    2021    2020 pty0     17:08:30 /usr/bin/bash
