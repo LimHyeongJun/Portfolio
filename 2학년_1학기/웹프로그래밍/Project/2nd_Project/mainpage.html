@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD><title>열정의 스포츠, 야구</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="baseballrule.html">
+    <link rel="stylesheet" href="baseballtalk.html">
+    <link rel="stylesheet" href="KBOleague.html">
+    <link rel="stylesheet" href="KBOteam.html">
+</HEAD>
+
+<BODY>
+    <!--머리글-->
+    <div id="header">
+        <h1>우리나라의 인기스포츠, 야구</h1>
+    </div>
+
+    <br><br><br><br><br>
+    <div id="today_date" style="text-align: right;"></div>
+    <br>
+    
+    <!--본문 내용-->
+    <h3><center style="color:red;">
+        본 페이지는 내용이 없으며, 목록 메뉴를 통해서 내용을 보실 수 있습니다.</center>
+    </h3>
+
+    <br><br>
+        <div id="audio" style="font-size:20px; color:brown"><야구 중계가></div><br>
+        <div id="audio"><audio src="타카피, 치고달려라2012.mp3" controls></audio></div>
+    <br>
+
+    <!--메뉴바 구성-->
+    <table class="table_menu" rules=all>
+        <tr class="table_tr_menu">
+            <th colspan=4><center style="padding-top:10px; padding-bottom:10px">
+                목 록
+            </center></th>
+        </tr>
+        <tr class="table_td_menu">
+            <td width=25%><a href="baseballrule.html">
+                <center style="padding-top:15px; padding-bottom:15px;">
+                    야구의 기본 룰
+                </center></a>
+            </td>
+            <td width=25%><a href="KBOleague.html">
+                <center style="padding-top:15px; padding-bottom:15px;">
+                    국내 리그
+                </center></a>
+            </td>
+            <td width=25%><a href="KBOteam.html">
+                <center style="padding-top:15px; padding-bottom:15px;">
+                    KBO 구단
+                </center></a>
+            </td>
+            <td width=25%><a href="baseballtalk.html">
+                <center style="padding-top:15px; padding-bottom:15px;">
+                    야구 격언
+                </center></a>
+            </td>
+        </tr>
+    </table>
+
+    <br><br><br>
+    
+    <!--이미지 넣기-->
+    <div id="imageleft"></div>
+    <div id="image"><img src="baseballpicture.jpg"></div>
+    <div id="aside"></div>
+    <script>
+    function today_date() {
+    var today = new Date();
+    var day = today.getMonth()+1+ "월 " + today.getDate() + "일 ";
+    var time = today.getHours() + "시 " + today.getMinutes() + "분";
+            
+    document.getElementById("today_date").innerHTML = day + time;
+    }
+    today_date();
+    </script>
+</BODY>
+</HTML>

@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Smart_Phone_Layout</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimun-scale=1.0, user-scalable=no" />
+    <!-- 초기화 -->
+    <style>
+        * { margin: 0; padding: 0; }
+        body { font-family: 'Helvetica', sans-serif; }
+        li { list-style: none; }
+        a { text-decoration: none; }
+    </style>
+    <!-- 헤더 -->
+    <style>
+        #main_header {
+            /* 배경 지정 */
+            height: 45px;
+            background: url('header_background.png');
+            
+            /* 자손 위치 지정 */
+            position: relative;
+            text-align: center;
+            line-height: 45px;
+        }
+        #main_header > h1 {
+            color: white;
+        }
+        #main_header > a, #main_header > label {
+            display: block;
+            height: 32px;
+            position: absolute;
+        }
+        #main_header > a.left {
+            width: 62px;
+            left: 5px; top: 7px;
+        }
+        #main_header > label.right {
+            width: 32px;
+            right: 5px; top: 7px;
+        }
+    </style>
+    <!-- 스프라이트 이미지 -->
+    <style>
+        #main_header > a.left {
+            background: url('header_left_button.png');
+            background-position: 0px 0px;
+            text-indent: -99999px ;
+        }
+        #main_header > label.right {
+            background: url('header_right_button.png');
+            background-position: -62px 0px;
+            text-indent: -99999px;
+        }
+    </style>
+    <!-- 토글 목록 -->
+    <style>
+        /* 토글 구현 */
+        #toggle { display: none; }
+        #toggle + #wrap > #toggle_gnb_wrap { display: none; }
+        #toggle:checked + #wrap > #toggle_gnb_wrap { display: block; }
+
+        /* 레이아웃 색상 */
+        #toggle_gnb_wrap {
+            background: #971616;
+            padding: 15px;
+        }
+        #toggle_gnb {
+            background-image: linear-gradient(to right, red, #FFFFFF, red);
+            padding: 5px;
+        }
+
+        /* 토글 목록 */
+        #toggle_gnb > ul { overflow: hidden; }
+        #toggle_gnb > ul > li {
+            width: 20%; float: left;
+        }
+    </style>
+    <!-- 네비게이션(1) -->
+    <style>
+        #top_gnb {
+            overflow: hidden;
+            border-bottom: 1px solid black;
+            background: #B42111;
+        }
+        #top_gnb > div > a {
+            /* 수평 정렬 */
+            float: left; width: 20%;
+
+            /* 크기 및 색상, 정렬 */
+            height: 35px;
+            line-height: 35px;
+            text-align: center;
+            color: white;
+        }
+    </style>
+    <!-- 네비게이션(2) -->
+    <style>
+        #bottom_gnb {
+            display: table;
+            width: 100%;
+            border-bottom: 1px solid black;
+        }
+        #bottom_gnb > div {
+            display: table-cell;
+            position: relative;
+            float: left; width: 20%;
+        }
+        #bottom_gnb > div > a {
+            display: block;
+            height: 35px;
+            line-height: 35px;
+            text-align: center;
+        }
+        #bottom_gnb > div > a::before {
+            display: block;
+            position: absolute;
+            top: 9px; left: -1px;
+            width: 1px; height: 15px;
+            border-left: 1px solid black;
+            content: '';
+        }
+    </style>
+    <!-- 본문 -->
+    <style>
+        #section_header { padding: 20px; }
+        #section_article { padding: 10px; }
+    </style>
+    <!--야구선수 사진-->
+    <style>
+    #baseball_player {
+        float:left;
+        width:100%;
+        text-align:center;
+    }
+    </style>
+    <!-- 푸터 -->
+    <style>
+        #main_footer {
+            padding: 10px;
+            border-top: 3px solid black;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <input id="toggle" type="checkbox" />
+    <div id="wrap">
+        <header id="main_header">
+            <a class="left" href="#">Main</a>
+            <h1>네 &nbsp;* &nbsp;버</h1>
+            <label class="right" for="toggle" onclick="">Toggle</label>
+        </header>
+        <div id="toggle_gnb_wrap">
+            <div id="toggle_gnb">
+                <ul style="text-align: center;">
+                    <li><a href="#">스포츠</a></li>
+                    <li><a href="#">연예</a></li>
+                    <li><a href="#">경제</a></li>
+                    <li><a href="#">웹툰</a></li>
+                    <li><a href="#">영화</a></li>
+                </ul>
+            </div>
+        </div>
+        <nav id="top_gnb">
+            <div><a href="#">야구</a></div>
+            <div><a href="#">해외야구</a></div>
+            <div><a href="#">축구</a></div>
+            <div><a href="#">해외축구</a></div>
+            <div><a href="#">E스포츠</a></div>
+        </nav>
+        <nav id="bottom_gnb">
+            <div><a href="#">최신뉴스</a></div>
+            <div><a href="#">영상</a></div>
+            <div><a href="#">생생화보</a></div>
+            <div><a href="#">일정∙결과</a></div>
+            <div><a href="#">기록∙순위</a></div>
+        </nav>
+        <section id="main_section">
+            <header id="section_header">
+                <h1 style="text-align:center; color:rgb(0, 0, 0);">'양현종 첫 승' KIA, 삼성에 8-1 완승... 18일 만에 '위닝시리즈</h1><br>
+                <div id="today_date" style="text-align: right;"></div>
+            </header>
+            <article id="section_article">
+                <p><div id="baseball_player">
+                        <img src="1.jpg">
+                        <br></div></p>
+                <br />
+                <p>KIA 타이거즈가 삼성 라이온즈를 제압하며 위닝시리즈를 완성했다. 전날 당했던 완패도 설욕. 선발 양현종(31)도 첫 승을 따냈다. 여러모로 기분 좋게 창원으로 이동할 수 있게 됐다.</p>
+                <br />
+                <p>KIA는 2일 광주-기아 챔피언스 필드에서 열린 2019 신한은행 MY CAR KBO 리그 정규시즌 삼성전에서 선발 양현종의 호투에 1회부터 터진 타선의 힘을 더해 8-1의 승리를 따냈다.</p>
+                <br />
+                <p>이로써 KIA는 주중 3연전을 2승 1패, 위닝시리즈로 마쳤다. 지난 4월 12일부터 14일까지 인천에서 SK를 상대로 2승 1무로 우위에 선 이후 5시리즈 만에 처음이다. 날짜로는 18일 만이 된다. 삼성은 전날 승리의 기운을 이어가지 못했다.</p>
+                <br />
+                <p>KIA 선발 양현종은 6이닝 2피안타 1볼넷 5탈삼진 1실점의 호투를 펼치며 승리투수가 됐다. 시즌 7경기 만에 따낸 첫 승(5패)이다. 4월 11일(8이닝 3실점) 이후 21일 만에 만든 퀄리티스타트였다. 최근 페이스가 좋지 않았지만, 이날은 쾌투를 뽐냈다. 시원시원한 피칭. 타선도 화끈하게 양현종을 도왔다.</p>
+                <br />
+                <p>양현종에 이어 전상현이 1이닝 1피안타 무실점을, 고영창이 1이닝 1피안타 무실점을 만들었고, 문경찬이 등판해 1이닝 무실점으로 경기를 끝냈다. 깔끔한 이어던지기였다.</p>
+                <br />
+                <p>타선에서는 김주찬이 개인 통산 1800안타를 때리는 등 3안타 1타점 2득점으로 활약했다. 최형우는 홈런 포함 2안타 1타점 3득점을 만들었다. 박찬호가 2안타 2타점을 더했고, 이명기가 2안타 1득점을 올렸다. 한승택이 1안타 1타점을 기록했다.
+                </p>
+                <br />
+                <p>삼성 선발 최채흥은 5이닝 8피안타 3볼넷 7실점(6자책)으로 부진했고, 패전투수가 됐다. 시즌 2패(2승)째. 1군 복귀전을 치렀으나, 결과가 좋지 못했다. 삼성의 고민도 계속되는 모양새. 1회에만 5점을 내주며 흔들렸고, 어려운 경기가 됐다.
+                </p>
+                <br />
+                <p>최채흥에 이어 김대우가 올라와 2이닝 2피안타(1피홈런) 2탈삼진 1실점(비자책)을 기록했고, 장지훈이 올라와 1이닝 1볼넷 1탈삼진 무실점을 더했다.</p>
+                <br />
+                <p>타선은 양현종을 비롯한 KIA 투수진을 제어하지 못했다. 그나마 김헌곤이 2안타를 쳤지만, 다른 쪽이 아쉬웠다. 전날 팀 15안타를 쳤지만, 이날은 5안타에 그쳤다. 득점도 희생플라이로 만든 1점이 전부였다.</p>
+                <br />
+                <p>KIA 타선이 1회부터 터졌다. 이명기의 중전안타, 김선빈의 3루 땅볼, 최형우의 볼넷으로 2사 1,2루가 됐고, 김주찬이 우전 적시타를 쳤다. 1-0. 이창진의 볼넷으로 만루가 됐고, 유재신이 밀어내기 볼넷을 더했다. 스코어 2-0이 됐다.
+                </p>
+                <br />
+                <p>이어 박찬호가 중전 2타점 적시타를 쳐 4-0으로 달아났고, 한승택이 좌중간 적시타를 추가해 5-0까지 간격을 벌렸다.
+                </p>
+                <br />
+                <p>3회말에는 김주찬이 중전안타로 나간 후, 상대 포일과 폭투로 3루까지 들어갔다. 이창진이 좌익수 희생플라이를 날려 6-0이 됐다. 5회말 들어서는 최형우의 중월 2루타, 김주찬의 3루수 맞고 좌익수 앞으로 가는 안타로 무사 1,3루가 됐다. 이창진의 병살타 때 3루 주자가 득점하며 7-0까지 달아났다.
+                </p>
+                <br />
+                <p>6회초 삼성이 박계범의 볼넷과 김헌곤의 우측 안타로 만든 무사 1,3루에서 박해민이 희생플라이를 쳐 1-7을 만들었다. 그러자 7회말 최형우의 우월 솔로 홈런이 폭발해 KIA가 8-1로 간격을 다시 벌렸다.</p>
+                <br />
+            </article>
+        </section>
+        <footer id="main_footer">
+            <h3>HTML5 + CSS3 Basic으로 꾸며본 스마트폰 페이지</h3>
+            <address>스마트폰 레이아웃</address>
+        </footer>
+    </div>
+<script>
+    function today_date() {
+        var today = new Date();
+        var day = today.getMonth()+1+ "월 " + today.getDate() + "일 ";
+        var time = today.getHours() + "시 " + today.getMinutes() + "분";
+
+        document.getElementById("today_date").innerHTML = day + time;
+
+
+    }
+    today_date();
+</script>
+</body>
+</html>
