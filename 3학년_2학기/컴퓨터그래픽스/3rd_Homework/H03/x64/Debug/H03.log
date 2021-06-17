@@ -1,0 +1,52 @@
+﻿  glSetup.cpp
+  H03.cpp
+d:\포트폴리오\3학년_2학기\컴퓨터그래픽스\3rd_homework\h03\h03.cpp(99): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+  코드를 생성하고 있습니다...
+glSetup.obj : error LNK2019: __imp_glBegin 외부 기호(참조 위치: "void __cdecl drawAxes(float,float)" (?drawAxes@@YAXMM@Z) 함수)에서 확인하지 못했습니다.
+H03.obj : error LNK2001: __imp_glBegin 외부 기호를 확인할 수 없습니다.
+glSetup.obj : error LNK2019: __imp_glClear 외부 기호(참조 위치: "struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수)에서 확인하지 못했습니다.
+glSetup.obj : error LNK2019: __imp_glClearColor 외부 기호(참조 위치: "struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수)에서 확인하지 못했습니다.
+glSetup.obj : error LNK2019: __imp_glColor3f 외부 기호(참조 위치: "void __cdecl drawAxes(float,float)" (?drawAxes@@YAXMM@Z) 함수)에서 확인하지 못했습니다.
+glSetup.obj : error LNK2019: __imp_glEnd 외부 기호(참조 위치: "void __cdecl drawAxes(float,float)" (?drawAxes@@YAXMM@Z) 함수)에서 확인하지 못했습니다.
+H03.obj : error LNK2001: __imp_glEnd 외부 기호를 확인할 수 없습니다.
+glSetup.obj : error LNK2019: __imp_glFlush 외부 기호(참조 위치: "struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수)에서 확인하지 못했습니다.
+glSetup.obj : error LNK2019: __imp_glGetString 외부 기호(참조 위치: "struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수)에서 확인하지 못했습니다.
+glSetup.obj : error LNK2019: __imp_glLineWidth 외부 기호(참조 위치: "void __cdecl drawAxes(float,float)" (?drawAxes@@YAXMM@Z) 함수)에서 확인하지 못했습니다.
+glSetup.obj : error LNK2019: __imp_glLoadIdentity 외부 기호(참조 위치: "void __cdecl reshape(struct GLFWwindow *,int,int)" (?reshape@@YAXPEAUGLFWwindow@@HH@Z) 함수)에서 확인하지 못했습니다.
+glSetup.obj : error LNK2019: __imp_glMatrixMode 외부 기호(참조 위치: "void __cdecl reshape(struct GLFWwindow *,int,int)" (?reshape@@YAXPEAUGLFWwindow@@HH@Z) 함수)에서 확인하지 못했습니다.
+glSetup.obj : error LNK2019: __imp_glOrtho 외부 기호(참조 위치: "void __cdecl setupProjectionMatrix(void)" (?setupProjectionMatrix@@YAXXZ) 함수)에서 확인하지 못했습니다.
+glSetup.obj : error LNK2019: __imp_glVertex3f 외부 기호(참조 위치: "void __cdecl drawAxes(float,float)" (?drawAxes@@YAXMM@Z) 함수)에서 확인하지 못했습니다.
+H03.obj : error LNK2001: __imp_glVertex3f 외부 기호를 확인할 수 없습니다.
+glSetup.obj : error LNK2019: __imp_glViewport 외부 기호(참조 위치: "void __cdecl reshape(struct GLFWwindow *,int,int)" (?reshape@@YAXPEAUGLFWwindow@@HH@Z) 함수)에서 확인하지 못했습니다.
+glSetup.obj : error LNK2019: gluPerspective 외부 기호(참조 위치: "void __cdecl setupProjectionMatrix(void)" (?setupProjectionMatrix@@YAXXZ) 함수)에서 확인하지 못했습니다.
+glSetup.obj : error LNK2019: glfwInit 외부 기호(참조 위치: "struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수)에서 확인하지 못했습니다.
+glSetup.obj : error LNK2019: glfwTerminate 외부 기호(참조 위치: "struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수)에서 확인하지 못했습니다.
+H03.obj : error LNK2001: glfwTerminate 외부 기호를 확인할 수 없습니다.
+glSetup.obj : error LNK2019: glfwSetErrorCallback 외부 기호(참조 위치: "struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수)에서 확인하지 못했습니다.
+glSetup.obj : error LNK2019: glfwGetPrimaryMonitor 외부 기호(참조 위치: "struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수)에서 확인하지 못했습니다.
+glSetup.obj : error LNK2019: glfwGetMonitorPhysicalSize 외부 기호(참조 위치: "struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수)에서 확인하지 못했습니다.
+glSetup.obj : error LNK2019: glfwGetVideoMode 외부 기호(참조 위치: "struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수)에서 확인하지 못했습니다.
+glSetup.obj : error LNK2019: glfwWindowHint 외부 기호(참조 위치: "struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수)에서 확인하지 못했습니다.
+glSetup.obj : error LNK2019: glfwCreateWindow 외부 기호(참조 위치: "struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수)에서 확인하지 못했습니다.
+glSetup.obj : error LNK2019: glfwGetWindowSize 외부 기호(참조 위치: "struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수)에서 확인하지 못했습니다.
+glSetup.obj : error LNK2019: glfwGetFramebufferSize 외부 기호(참조 위치: "struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수)에서 확인하지 못했습니다.
+glSetup.obj : error LNK2019: glfwSetFramebufferSizeCallback 외부 기호(참조 위치: "struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수)에서 확인하지 못했습니다.
+glSetup.obj : error LNK2019: glfwMakeContextCurrent 외부 기호(참조 위치: "struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수)에서 확인하지 못했습니다.
+glSetup.obj : error LNK2019: glfwSwapBuffers 외부 기호(참조 위치: "struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수)에서 확인하지 못했습니다.
+H03.obj : error LNK2001: glfwSwapBuffers 외부 기호를 확인할 수 없습니다.
+glSetup.obj : error LNK2019: glfwSwapInterval 외부 기호(참조 위치: "struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수)에서 확인하지 못했습니다.
+H03.obj : error LNK2019: __imp_glDisable 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+H03.obj : error LNK2019: __imp_glDrawPixels 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+H03.obj : error LNK2019: __imp_glEnable 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+H03.obj : error LNK2019: __imp_glNormal3f 외부 기호(참조 위치: "void __cdecl drawTexturedQuad(float)" (?drawTexturedQuad@@YAXM@Z) 함수)에서 확인하지 못했습니다.
+H03.obj : error LNK2019: __imp_glPixelStorei 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+H03.obj : error LNK2019: __imp_glTexCoord2f 외부 기호(참조 위치: "void __cdecl drawTexturedQuad(float)" (?drawTexturedQuad@@YAXM@Z) 함수)에서 확인하지 못했습니다.
+H03.obj : error LNK2019: __imp_glTexImage2D 외부 기호(참조 위치: "void __cdecl loadRenderedImage(void)" (?loadRenderedImage@@YAXXZ) 함수)에서 확인하지 못했습니다.
+H03.obj : error LNK2019: __imp_glTexParameterf 외부 기호(참조 위치: "void __cdecl loadRenderedImage(void)" (?loadRenderedImage@@YAXXZ) 함수)에서 확인하지 못했습니다.
+H03.obj : error LNK2019: glfwDestroyWindow 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+H03.obj : error LNK2019: glfwWindowShouldClose 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+H03.obj : error LNK2019: glfwSetWindowShouldClose 외부 기호(참조 위치: "void __cdecl keyboard(struct GLFWwindow *,int,int,int,int)" (?keyboard@@YAXPEAUGLFWwindow@@HHHH@Z) 함수)에서 확인하지 못했습니다.
+H03.obj : error LNK2019: glfwPollEvents 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+H03.obj : error LNK2019: glfwSetKeyCallback 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+H03.obj : error LNK2019: glfwGetTime 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+D:\포트폴리오\3학년_2학기\컴퓨터그래픽스\3rd_Homework\x64\Debug\H03.exe : fatal error LNK1120: 42개의 확인할 수 없는 외부 참조입니다.

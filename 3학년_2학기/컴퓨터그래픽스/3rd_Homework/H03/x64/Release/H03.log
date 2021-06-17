@@ -1,0 +1,11 @@
+﻿  glSetup.cpp
+c1xx : warning C4199: C++/CLI, C++/CX 또는 OpenMP에서는 2단계 이름 조회가 지원되지 않습니다. /Zc:twoPhase-를 사용하세요.
+  H03.cpp
+c1xx : warning C4199: C++/CLI, C++/CX 또는 OpenMP에서는 2단계 이름 조회가 지원되지 않습니다. /Zc:twoPhase-를 사용하세요.
+d:\포트폴리오\3학년_2학기\컴퓨터그래픽스\3rd_homework\h03\h03.cpp(99): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+  코드를 생성하고 있습니다.
+  105 of 112 functions (93.8%) were compiled, the rest were copied from previous compilation.
+    8 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  H03.vcxproj -> D:\포트폴리오\3학년_2학기\컴퓨터그래픽스\3rd_Homework\x64\Release\H03.exe
