@@ -1,4 +1,4 @@
-## 쉘 스크립트로 Linux 작업관리자 만들기 2
+## MyDoubleVector 클래스 구현
 * 개발 환경 : C++ / Visual Studio 2017
 * Problem Description
   * STL의 `vector<double>`클래스와 비슷한 MyDoubleVector 클래스를 만든다.
