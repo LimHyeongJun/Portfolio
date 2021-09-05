@@ -1,5 +1,5 @@
 # Portfolio
-Lim Hyeong Jun's Portfolio in University.<br>
+Lim HyeongJun's Portfolio in University.<br>
 
 ### README 작성 여부 목록
   * 작성 완료 목록
