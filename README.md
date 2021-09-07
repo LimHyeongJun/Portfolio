@@ -25,7 +25,7 @@ Lim HyeongJun's Portfolio in University.<br>
   * 자료구조실습 - 개발 환경 : C++ / Ubuntu 16.04 (VMware)
 * 3학년 1학기
   * 알고리즘 - 개발 환경 : C++ / Visual Studio 2017
-  * 운영체제 - 개발 환경 : C++ / Ubuntu 18.04 (VMware)
+  * 운영체제 - 개발 환경 : C / Ubuntu 18.04 (VMware)
   * 응용소프트웨어실습 - 개발 환경 : 개발 환경 : C# / Visual Studio 2017
 * 3학년 2학기
   * 심화전공실습1 - 개발 환경 : C++, OpenGL, GLU, GLFW / Visual Studio 2017
