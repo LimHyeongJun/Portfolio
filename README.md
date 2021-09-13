@@ -15,7 +15,7 @@ Lim HyeongJun's Portfolio in University.<br>
     * 응용소프트웨어실습(팀프로젝트)
     * 심화전공실습1
     * 프로그래밍언어론
-### 아래는 이 깃허브에 정리가 되어 있는 사용한 언어들이다.
+### 아래는 사용한 언어들 중 정리가 완료된 언어들이다.
 * 2학년 1학기
   * 리눅스활용실습 - 개발 환경 : Shell Script / Ubuntu 16.04(VMware)
   * 웹프로그래밍 - 개발 환경: HTML, CSS, JavaScript, JQuery / VSCode
@@ -31,7 +31,7 @@ Lim HyeongJun's Portfolio in University.<br>
   * 컴퓨터그래픽스 - 개발 환경 : C++, OpenGL, GLU, GLFW / Visual Studio 2017
   * 프로그래밍언어론 - 개발 환경 : Java / Eclipse-IDE(2020-09)
 
-### 아래는 이 깃허브에는 정리가 되어 있지 않지만 사용한 언어들이다. 
+### 아래는 사용한 언어들 중 아직 정리가 되지 않은 언어들이다. 
 * 2학년 2학기
   * 고급프로그래밍 - 개발 환경 : C++ / Visual Studio 2017
 * 2학년 2학기
