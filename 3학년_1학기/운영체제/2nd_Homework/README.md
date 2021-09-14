@@ -44,8 +44,8 @@
   * `Thread* pCurrentThread`
     * Running 중인 thread는 ready queue, waiting queue에 모두 포함되지 않는다.
     * 따라서 Running thread를 저장하기 위한 변수인 pCurrentThread가 필요하다.
+<hr></hr>
 
-<br><br>
 * ### 구현 함수
   * `int thread_create(thread_t* thread, const pthread_attr_t* attr, int priority, void *(*start_routine)(void *), void* arg);`
     * 함수 매개변수 설명
